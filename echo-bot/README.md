@@ -15,7 +15,7 @@ Bot Framework v4 echo bot sample.
 ### Connect to the bot using Bot Framework Emulator
   - Launch Bot Framework Emulator
   - File -> Open Bot
-  - Enter a Bot URL of `http://localhost:3978/api/messages`
+  - Enter a Bot URL of `http://localhost:8080/api/messages`
 
 ## Interacting with the bot
 Enter text in the emulator. The text will be echoed back by the bot.
