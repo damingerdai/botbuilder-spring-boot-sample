@@ -25,6 +25,7 @@
 
     <modules>
         <module>echo-bot</module>
+        <module>welcome-bot</module>
     </modules>
 
     <dependencies>
