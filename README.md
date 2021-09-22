@@ -13,4 +13,5 @@ The sample for the [botbuilder-spring-boot-starter](https://github.com/PowerBotK
 |  #   | Sample Name |  Description | Link |
 | :--: | :---------- | :----------- | :--- |
 | 2  |Echo bot  |Demonstrates how to receive and send messages. | [Java Code](./echo-bot) |
+| 3  |Welcome user   |Introduces activity types and provides a welcome message on conversation update activity. | [Java Code](./welcome-bot) |
 
