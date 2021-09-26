@@ -27,6 +27,7 @@
     <modules>
         <module>echo-bot</module>
         <module>welcome-bot</module>
+        <module>multi-turn-prompt</module>
     </modules>
 
     <dependencies>
