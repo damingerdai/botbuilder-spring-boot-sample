@@ -18,5 +18,5 @@ Bot Framework v4 echo bot sample.
   - Enter a Bot URL of `http://localhost:8080/api/messages`
 
 ## Interacting with the bot
-Enter text in the emulator. The text will be echoed back by the bot.
 
+Enter text in the emulator. The text will be echoed back by the bot.
