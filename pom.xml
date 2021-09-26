@@ -28,6 +28,7 @@
         <module>echo-bot</module>
         <module>welcome-bot</module>
         <module>multi-turn-prompt</module>
+        <module>using-adaptive-cards</module>
     </modules>
 
     <dependencies>
