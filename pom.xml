@@ -29,6 +29,7 @@
         <module>welcome-bot</module>
         <module>multi-turn-prompt</module>
         <module>using-adaptive-cards</module>
+        <module>using-cards</module>
     </modules>
 
     <dependencies>

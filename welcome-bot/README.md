@@ -18,4 +18,6 @@ Bot Framework v4 welcome users bot sample.
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:8080/api/messages`
 
+## Interacting with the bot
+
 With the Bot Framework Emulator connected to your running bot, the sample will greet you with welcome messages. See [Send welcome message to users](https://aka.ms/botframework-welcome-instructions) for additional information on how a bot can welcome users to a conversation.

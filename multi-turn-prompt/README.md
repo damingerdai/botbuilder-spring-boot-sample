@@ -18,6 +18,8 @@ Bot Framework v4 multi-turn prompt bot sample.
 - File -> Open Bot
 - Enter a Bot URL of `http://localhost:8080/api/messages`
 
+## Interacting with the bot
+
 A conversation between a bot and a user often involves asking (prompting) the user for information, parsing the user's response, and then acting on that information. This sample demonstrates how to prompt users for information using the different prompt types included in the [botbuilder-dialogs](https://docs.microsoft.com/en-us/azure/bot-service/bot-builder-concept-dialog?view=azure-bot-service-4.0) library
 and supported by the SDK.
 
