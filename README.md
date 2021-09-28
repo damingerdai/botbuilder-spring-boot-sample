@@ -17,3 +17,4 @@ The sample for the [botbuilder-spring-boot-starter](https://github.com/PowerBotK
 | 5  |Multi&nbsp;turn&nbsp;prompts    | Demonstrates how to use waterfall dialog, prompts, and component dialog to create a simple interaction that asks the user for name, age, and prints back that information.          | [Java Code](./multi-turn-prompt) |
 | 6  |Using cards          | Introduces all card types including thumbnail, audio, media etc. Builds on Welcoming user + multi-prompt bot by presenting a card with buttons in welcome message that route to appropriate dialog.     | [Java Code](./using-cards) |
 | 7  |Adaptive cards | Demonstrates how the multi-turn dialog can use a card to get user input for name and age. | [Java Code](./using-adaptive-cards) |
+| 8  |Suggested actions    | Demonstrates how to enable your bot to present buttons that the user can tap to provide input.   | [Java Code](./suggested-actions) |

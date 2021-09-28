@@ -30,6 +30,7 @@
         <module>multi-turn-prompt</module>
         <module>using-adaptive-cards</module>
         <module>using-cards</module>
+        <module>suggested-actions</module>
     </modules>
 
     <dependencies>
