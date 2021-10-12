@@ -31,6 +31,7 @@
         <module>using-adaptive-cards</module>
         <module>using-cards</module>
         <module>suggested-actions</module>
+        <module>qnamaker</module>
     </modules>
 
     <dependencies>

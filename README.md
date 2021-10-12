@@ -18,3 +18,4 @@ The sample for the [botbuilder-spring-boot-starter](https://github.com/PowerBotK
 | 6  |Using cards          | Introduces all card types including thumbnail, audio, media etc. Builds on Welcoming user + multi-prompt bot by presenting a card with buttons in welcome message that route to appropriate dialog.     | [Java Code](./using-cards) |
 | 7  |Adaptive cards | Demonstrates how the multi-turn dialog can use a card to get user input for name and age. | [Java Code](./using-adaptive-cards) |
 | 8  |Suggested actions    | Demonstrates how to enable your bot to present buttons that the user can tap to provide input.   | [Java Code](./suggested-actions) |
+| 11 |QnA Maker (simple)   | Demonstrates how to use QnA Maker to have simple single-turn conversations | [Java Code](./qnamaker) |
