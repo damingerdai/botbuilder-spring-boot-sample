@@ -29,11 +29,6 @@
             <groupId>io.github.powerbotkit</groupId>
             <artifactId>botbuilder-spring-boot-starter</artifactId>
         </dependency>
-        <dependency>
-            <groupId>com.microsoft.bot</groupId>
-            <artifactId>bot-ai-qna</artifactId>
-            <version>4.14.0</version>
-        </dependency>
     </dependencies>
 
     <build>

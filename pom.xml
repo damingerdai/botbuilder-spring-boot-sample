@@ -32,6 +32,7 @@
         <module>using-cards</module>
         <module>suggested-actions</module>
         <module>qnamaker</module>
+        <module>core-bot</module>
     </modules>
 
     <dependencies>
